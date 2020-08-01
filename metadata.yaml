@@ -1,0 +1,30 @@
+_repo: The-Fly-Leaf-No-5-Vol-1-April-1896_62763
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Harte, Walter Blackburn
+    birthdate: 1867
+    deathdate: 1899
+    gutenberg_agent_id: '51879'
+    url: http://www.gutenberg.org/2009/agents/51879
+description: ''
+gutenberg_issued: '2020-07-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62763'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American literature -- Periodicals'
+- !lcsh 'American periodicals'
+- !lcc 'AP'
+- GITenberg
+title: The Fly Leaf, No. 5, Vol. 1, April 1896
+url: http://www.gutenberg.org/ebooks/62763
